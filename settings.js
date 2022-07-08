@@ -61,16 +61,16 @@ global.socialm = "GitHub: CYBER-DARK-YT" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213']
-global.ownertag = '+15878150226' //ur tag number
+global.owner = ['15878150226']
+global.ownertag = '15878150226' //ur tag number
 global.botname = 'Dark Bot MD V4' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://wa.me/+1(587)815-0226' 
 global.reactmoji = "❤" //ur menu react emoji
 global.themeemoji = "👿" //ur theme emoji
-global.packname = "Dark Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy cyber dark" //ur sticker watermark author
+global.packname = "Dark Bot" //ur sticker watermark packname
+global.author = "cyber dark"//ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['+15878150226'] //ur premium numbers
+global.premium = ['15878150226'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
